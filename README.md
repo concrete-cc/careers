@@ -1,30 +1,27 @@
-careers
-=======
+# Careers
 
-Current vacancies at Concrete.
+## Current vacancies at Concrete
 
-----
-JavaScript Engineer
-=======
+### JavaScript Engineer
 
 Concrete - are looking for a great JavaScript developer to join our growing team.
 
-We'd expect you to
+__We'd expect you to...__
 
-be experienced in:
+... be experienced in:
 - A front-end framework, Backbone/Marionette, Angular or Ember
 - HTML5, CSS
 - Testing, TDD, BDD, DDD
 - Agile, SCRUM, XP
 - General web development
 
-know about:
+... know about:
 - Scope
 - Context
 - Closures
 - OO and prototypical principals
 
-have:
+... have:
 - Some code to show and talk about.
 - Opinions, correct or otherwise, about coding.
 - A love for JS.
