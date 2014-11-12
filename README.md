@@ -30,6 +30,6 @@ have:
 - A love for JS.
 - Something you're excited about in the programming world.
 
-If you're interested please contact  or pass this on to anyone you know.
+If you're interested please contact [Clarkie](https://github.com/clarkie) or pass this on to anyone you know.
 
 ----
