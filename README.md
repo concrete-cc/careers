@@ -1,7 +1,7 @@
 careers
 =======
 
-Current vacancies at Concrete
+Current vacancies at Concrete.
 
 ----
 JavaScript Engineer
@@ -33,3 +33,5 @@ have:
 If you're interested please contact [Clarkie](https://github.com/clarkie) or pass this on to anyone you know.
 
 ----
+
+NO AGENCIES PLEASE!
