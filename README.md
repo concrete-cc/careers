@@ -29,7 +29,7 @@ __We'd expect you to...__
 - A love for JS.
 - Something you're excited about in the programming world.
 
-If you're interested please contact [Clarkie](https://github.com/clarkie) or pass this on to anyone you know.
+If you're interested please get in touch.
 
 ----
 
@@ -70,7 +70,7 @@ __SKILLS/QUALIFICATIONS__
 __EXPERIENCE__
 - 5-10 year experience of working in Infrastructure/Operations where IT systems are public facing on Internet 24x7x365
 
-Please contact andrius@concrete.cc if interested.
+If you're interested please get in touch.
 
 ----
 
