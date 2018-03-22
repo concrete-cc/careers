@@ -26,6 +26,7 @@ We're looking for the minimum essential skills:
 The following skills are desirable:
 
 - Supporting and monitoring Kubernetes clusters
+- Application monitoring tools
 - Microservices delivery
 - Supporting Database clusters
 - Supporting Mac OSX
@@ -33,7 +34,7 @@ The following skills are desirable:
 
 If selected, you will be asked to complete a short telephone interview, and may be invited to a face to face interview, which will involve some technical tests.
 
-Additional benefits: Pension, Healthcare, Childcare Vouchers, Cycle to work scheme, paid on-call allowance, flexible working from home possible.
+Additional benefits: Share options, Pension, Healthcare, Childcare Vouchers, Cycle to work scheme, paid on-call allowance, flexible working from home possible.
  
 If you’re interested, please send your CV immediately to be considered:  justin.miller@concreteplatform.com
 
